@@ -18,9 +18,14 @@ En 2019, las enfermedades cardiovasculares acabaron con la vida de casi 18 millo
 
 La detección temprana es fundamental en el tratamiento y manejo de enfermedades cardiovasculares, donde el aprendizaje automático puede ser una herramienta poderosa para detectar un posible diagnóstico de enfermedad cardíaca.
 
+# Preguntas y objetivos de la investigación
 
+El objetivo de la investigación es desarrollar un programa de aprendizaje automático capaz de detectar enfermedades cardíacas en temprana edad para pacientes de alto riesgo, tales como diabetes, hiperlipidemia o alguna enfermedad ya establecida.
 
-En el marco de este proyecto se utilizaron diversos algoritmos de aprendizaje automático para analizar la posibilidad de riesgo cardíaco de un paciente.
+Nuestra pregunta y desafío principal es si con una poca cantidad de datos relativamente fácil de medir, se puede obtener un modelo de predicción adecuado para prevenir enfermedades cardíacas.
+
+El objetivo principal de este trabajo es poder desarrollar el modelo de predicción mencionado. Para tal fin, en principio, se analizará y preparará la base de datos disponible, la cual será el input del modelo. Luego, se probarán distintos modelos de clasificación y se seleccionará el modelo que ajusta mejor para la problemática que se pretende resolver.
+
 
 
 
