@@ -26,6 +26,7 @@ Fuente https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
 # Integrantes
 Targize Juan Ignacio
+
 Salvatori Guadalupe 
 
 # Tabla de Contenidos del notebook:
