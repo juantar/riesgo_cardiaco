@@ -26,6 +26,13 @@ Nuestra pregunta y desafío principal es si con una poca cantidad de datos relat
 
 El objetivo principal de este trabajo es poder desarrollar el modelo de predicción mencionado. Para tal fin, en principio, se analizará y preparará la base de datos disponible, la cual será el input del modelo. Luego, se probarán distintos modelos de clasificación y se seleccionará el modelo que ajusta mejor para la problemática que se pretende resolver.
 
+# Data Acquisition
+
+El dataset fue seleccionado de la página kaggle. El mismo cuenta con variables facilmente medibles en análisis de rutina que se pueden obetener en cualquier estudio cardíaco que se realice una persona en cualquier hospital de recursos moderados.
+
+Fuente https://www.kaggle.com/fedesoriano/heart-failure-prediction
+
+
 # Tabla de Contenidos del notebook:
    * [Empresa y Problema específico](#section_1_empresa)
    * [Preguntas y objetivos de la investigación](#section_1_preguntas)
