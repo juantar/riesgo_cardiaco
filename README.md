@@ -67,6 +67,8 @@ Salvatori Guadalupe Micaela
 
 # Instrucciones de Uso
 
-Una vez instaladas las librerias se puede proceder a descargar el respositorio en donde se podrá visualizar las distintas etapas del análisis realizado. 
+Si desea utilizar los modelos predictivos para optimizar o probar nuevas variables deberá instalar las librerias y luego proceder a descargar el respositorio en donde se podrá visualizar las distintas etapas del análisis realizado. 
 Recordar que el archivo "Heart.csv" en su defecto se encuentra en la misma carpeta que el notebook, por lo cual se debe tener esto en cuenta para el correcto funcionamiento del mismo.
+
+Si desea solo visualizar la información puede hacerlo desde el github sin necesidad de descargar nada o bien igual que el paso anterior.
 
