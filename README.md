@@ -1,14 +1,6 @@
 # Prediccion_Riesgo_Cardiaco
 Proyecto creado para el curso Científico de Datos brindado por CoderHouse
 
-![Caratula_Proyecto](https://user-images.githubusercontent.com/68995559/164548840-3bd9ce25-2ecd-4aad-b89d-a0e74260416c.jpeg)
-
-
-
-
-
-
-
 
 # Introducción
 
@@ -32,6 +24,9 @@ El dataset fue seleccionado de la página kaggle. El mismo cuenta con variables 
 
 Fuente https://www.kaggle.com/fedesoriano/heart-failure-prediction
 
+# Integrantes
+Targize Juan Ignacio
+Salvatori Guadalupe 
 
 # Tabla de Contenidos del notebook:
    * [Empresa y Problema específico](#section_1_empresa)
