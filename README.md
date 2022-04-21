@@ -26,6 +26,30 @@ Nuestra pregunta y desafío principal es si con una poca cantidad de datos relat
 
 El objetivo principal de este trabajo es poder desarrollar el modelo de predicción mencionado. Para tal fin, en principio, se analizará y preparará la base de datos disponible, la cual será el input del modelo. Luego, se probarán distintos modelos de clasificación y se seleccionará el modelo que ajusta mejor para la problemática que se pretende resolver.
 
+# Tabla de Contenidos del notebook:
+   * [Empresa y Problema específico](#section_1_empresa)
+   * [Preguntas y objetivos de la investigación](#section_1_preguntas)
+   * [Conformación del equipo de trabajo](#section_1_equipo)
+   * [Data Acquisition](#section_1_data_acquisition)
+   * [Variable Description](#section_1_data_acquisition_variables)
+   * [Data wrangling y EDA](#section_1_eda)  
+       * [Análisis Variables Númericas](#section_1_eda_var_num)
+       * [Análisis Variables Categóricas](#section_1_eda_var_cat)
+       * [Correción de Datos y Outliers](#section_1_eda_outliers)
+       * [Matriz de Correlación](#section_1_eda_matriz)
+       * [Pair Plots](#section_1_eda_pair_plots)
+   * [Preparación de datos](#section_2_preparacion_datos)
+   * [Algoritmo de Clasificación](#section_2_algoritmos)
+   * [Árboles de Decisión](#section_2_algoritmos_arboles).
+   * [Random Forest](#section_2_algoritmos_random) 
+   * [Regresión Logística](#section_2_algoritmos_reg_log) 
+   * [Validación de datos](#section_3_valid_datos)
+       * [Validación Simple](#section_3_valid_datos_simple)
+       * [Cross validation: KFold](#section_3_valid_datos_Kfold)
+       * [Cross Validation: Leave One Out](#section_3_valid_datos_leaveoneout)
+       * [Comparación validaciones](#section_3_valid_datos_comparacion)
+   * [Grid Search](#section_3_grid_search)
+   * [Random Search](#section_3_random_search)
 
 
 
