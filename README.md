@@ -65,5 +65,8 @@ Salvatori Guadalupe
    * [Grid Search](#section_3_grid_search)
    * [Random Search](#section_3_random_search)
 
+# Instrucciones de Uso
 
+Una vez instaladas las librerias se puede proceder a descargar el respositorio en donde se podrá visualizar las distintas etapas del análisis realizado. 
+Recordar que el archivo "Heart.csv" en su defecto se encuentra en la misma carpeta que el notebook, por lo cual se debe tener esto en cuenta para el correcto funcionamiento del mismo.
 
