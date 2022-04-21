@@ -1,6 +1,17 @@
 # Prediccion_Riesgo_Cardiaco
 Proyecto creado para el curso Científico de Datos brindado por CoderHouse
 
+# Requerimientos y librerias a importar
+
+* Python 3
+ * Jupyter Notebook
+ * Pandas
+ * Numpy
+ * Seaborn
+ * Matplotlib
+ * Sklearn
+ * Math
+
 
 # Introducción
 
